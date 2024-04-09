@@ -1,55 +1,55 @@
 body {
   background-color: #ebebeb;
-}
-
-.heading {
+  }
+  
+  .heading {
   background-color: #333333;
   margin-bottom: 20px;
   padding: 5px 0px 5px 15px;
-}
-
-.title {
+  }
+  
+  .title {
   background-color: #333333;
   padding: 5px;
   color: white;
-}
-
-#runtime {
+  }
+  
+  #runtime {
   background-color: #333333;
   color: #3e8fde;
   padding: 0px 0px 5px 5px;
-}
-
-.content {
+  }
+  
+  .content {
   color: #3e8fde;
-}
-
-#subtitle {
+  }
+  
+  #subtitle {
   color: white;
   margin-left: 55px;
-}
-
-#showing {
+  }
+  
+  #showing {
   margin-left: 20px;
-}
-
-#films li::before {
+  }
+  
+  #films li::before {
   content: "";
-}
-
-.film {
+  }
+  
+  .film {
   font-size: 16px;
   text-transform: uppercase;
-}
-
-.sold-out {
+  }
+  
+  .sold-out {
   color: lightgray;
-}
-
-img {
+  }
+  
+  img {
   max-width: 25vw;
-}
-
-#film-info {
+  }
+  
+  #film-info {
   padding-bottom: 15px;
-}
+  }
